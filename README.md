@@ -14,11 +14,15 @@ Dataset to downloaded from the below link
 Pandas, numpy, matplotlib, seaborn, sklearn, scipy.
 #### Assumptions of regression
 Linearity, Homoscedasticity, multivariate normality, multicollinearity all checked before proceeding for regression.
-###### EDA
+#### EDA
 •	List comprehension- Used list comprehension throughout the analysis as they are generally more compact and faster than normal functions and loops for creating list.
+
 •	Missing values -Found missing values in both numerical & categorical features.
+
 •	Distribution of data- Looking at the numerical distribution data seems skewed, outliers present in the features also saw relation between response variable & predictor variable.
+
 •	Correlation Matrix – Found most correlated features to the target variable.
+
 •	Categorical variable – relationship between categorical variable & target variable.
 
 
