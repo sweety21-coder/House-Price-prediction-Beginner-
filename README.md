@@ -30,6 +30,47 @@ Linearity, Homoscedasticity, multivariate normality, multicollinearity all check
 •	**Categorical variable** – With barplot explored relationship between categorical variable & target variable.
 
 ![download](https://user-images.githubusercontent.com/66988391/93751140-3c587200-fc1a-11ea-96d2-fa6e67503122.png)
+![Capture](https://user-images.githubusercontent.com/66988391/93751586-f059fd00-fc1a-11ea-9ba5-07cc8e467a4a.PNG)
+
+###### Feature Engineering
+
+•	**Missing value treatment**
+•	**Transformation**- Transformation of date or year feature as datetime variable. 
+•	**Categorical variables** : Handling of rare labels
+•	**Skewness treatment with log transformation** - Standardize the values of the variables to the same range.
+•	**Label Encoding** –with sklearn’s label encoder converted Categorical data into numeric.
+•	**Feature Scaling**- Used sklearn’s minmaxscaler to normalize the data within a particular range.
+
+####### Feature selection
+
+**Used regularization technique** -**Lasso Regression model** for feature selection to enhance the prediction accuracy and to minimize prediction error.
+
+####### Data modeling with selected features
+
+	Prepared data for modeling using train test split from sklearn model selection.
+
+######## Models Used
+
+•**Linear Regression
+•	Random Forest**
+
+######### Model Evaluation
+•	**MSE
+•	R square score**
+	
+Acknowledgments
+•	Hat tip to anyone whose code was used
+
+
+
+
+
+
+
+
+
+
+
 
 
 
