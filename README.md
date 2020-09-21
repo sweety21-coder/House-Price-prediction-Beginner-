@@ -37,7 +37,7 @@ Linearity, Homoscedasticity, multivariate normality, multicollinearity all check
 
 
 
-#### Feature Engineering
+### Feature Engineering
 
 •	**Missing value treatment**
 
@@ -52,32 +52,40 @@ Linearity, Homoscedasticity, multivariate normality, multicollinearity all check
 •	**Feature Scaling**- Used sklearn’s minmaxscaler to normalize the data within a particular range.
 
 
-#### Feature selection
+
+### Feature selection
 
 **Used regularization technique** -**Lasso Regression model** for feature selection to enhance the prediction accuracy and to minimize prediction error.
 
 
-#### Data modeling with selected features
+
+
+### Data modeling with selected features
 
 Prepared data for modeling using train test split from sklearn model selection.
 
-#### Models Used
+
+
+### Models Used
 
 • **Linear Regression**
 
 • **Random Forest**
 
 
-#### Model Evaluation
+
+
+### Model Evaluation
 • **MSE**
 
 • **R square score**
+
 
 	
 
 
 
-#### Acknowledgments
+### Acknowledgments
 • Hat tip to anyone whose code was used
 
 
