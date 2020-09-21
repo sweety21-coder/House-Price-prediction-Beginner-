@@ -12,18 +12,24 @@ Dataset to downloaded from the below link
 5.	Model evaluation
 ### Libraries Included:
 Pandas, numpy, matplotlib, seaborn, sklearn, scipy.
+
 #### Assumptions of regression
 Linearity, Homoscedasticity, multivariate normality, multicollinearity all checked before proceeding for regression.
+
 #### EDA
-•	List comprehension- Used list comprehension throughout the analysis as they are generally more compact and faster than normal functions and loops for creating list.
+•	**List comprehension**- Used list comprehension throughout the analysis as they are generally more compact and faster than normal functions and loops for creating list.
 
-•	Missing values -Found missing values in both numerical & categorical features.
+•	**Plots used** - Histogram, density plot, boxplot,barplot.
 
-•	Distribution of data- Data distribution seems skewed, outliers present in the features.
+•	**Missing values** -Found missing values in both numerical & categorical features.
 
-•	Correlation Matrix – Found features most correlated to the target variable.
+•	**Distribution of data** - Data distribution seems skewed, outliers detected with the help of boxplot.
 
-•	Categorical variable – With barplot explored relationship between categorical variable & target variable.
+•	**Correlation Matrix** – Found features highly correlated to the target variable.
+
+•	**Categorical variable** – With barplot explored relationship between categorical variable & target variable.
+
+
 
 
 
