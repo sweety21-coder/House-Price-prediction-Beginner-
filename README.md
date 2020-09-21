@@ -31,7 +31,6 @@ Linearity, Homoscedasticity, multivariate normality, multicollinearity all check
 
 ![download](https://user-images.githubusercontent.com/66988391/93751140-3c587200-fc1a-11ea-96d2-fa6e67503122.png)
 
-
 ![Capture](https://user-images.githubusercontent.com/66988391/93751586-f059fd00-fc1a-11ea-9ba5-07cc8e467a4a.PNG)
 
 
