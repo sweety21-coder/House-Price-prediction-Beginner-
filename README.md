@@ -67,11 +67,15 @@ Prepared data for modeling using train test split from sklearn model selection.
 
 • **Random Forest**
 
-##### Model Evaluation
+
+### Model Evaluation
 • **MSE**
 
 • **R square score**
+
 	
+
+
 ### Acknowledgments
 • Hat tip to anyone whose code was used
 
