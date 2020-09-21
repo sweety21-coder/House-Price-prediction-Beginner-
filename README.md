@@ -19,11 +19,11 @@ Linearity, Homoscedasticity, multivariate normality, multicollinearity all check
 
 •	Missing values -Found missing values in both numerical & categorical features.
 
-•	Distribution of data- Looking at the numerical distribution data seems skewed, outliers present in the features also saw relation between response variable & predictor variable.
+•	Distribution of data- Data distribution seems skewed, outliers present in the features.
 
-•	Correlation Matrix – Found most correlated features to the target variable.
+•	Correlation Matrix – Found features most correlated to the target variable.
 
-•	Categorical variable – relationship between categorical variable & target variable.
+•	Categorical variable – With barplot explored relationship between categorical variable & target variable.
 
 
 
