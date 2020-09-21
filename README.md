@@ -13,10 +13,10 @@ Dataset to downloaded from the below link
 ### Libraries Included:
 Pandas, numpy, matplotlib, seaborn, sklearn, scipy.
 
-#### Assumptions of regression
+###  Assumptions of regression
 Linearity, Homoscedasticity, multivariate normality, multicollinearity all checked before proceeding for regression.
 
-#### EDA
+### EDA
 •	**List comprehension**- Used list comprehension throughout the analysis as they are generally more compact and faster than normal functions and loops for creating list.
 
 •	**Plots used** - Histogram, density plot, boxplot,barplot.
@@ -35,7 +35,7 @@ Linearity, Homoscedasticity, multivariate normality, multicollinearity all check
 
 
 
-##### Feature Engineering
+### Feature Engineering
 
 •	**Missing value treatment**
 
