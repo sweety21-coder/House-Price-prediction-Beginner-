@@ -29,6 +29,9 @@ Linearity, Homoscedasticity, multivariate normality, multicollinearity all check
 
 •	**Categorical variable** – With barplot explored relationship between categorical variable & target variable.
 
+![download](https://user-images.githubusercontent.com/66988391/93751140-3c587200-fc1a-11ea-96d2-fa6e67503122.png)
+
+
 
 
 
